@@ -1,0 +1,16 @@
+Write a program to check if a number is even or odd.
+
+
+Write a program to find the largest among three numbers.
+
+
+Explain the difference between while, for, and do-while loops in Java.
+while: Checks condition before executing the loop. 
+Good for unknown iterations
+for: Compact, used when iteration count is known. Includes initialization, condition, and update.
+do-while: Executes at least once, checks condition after. Useful for menus.
+
+
+Write a Java program to print the multiplication table of any number.
+
+
