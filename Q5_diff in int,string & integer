@@ -1,0 +1,5 @@
+What is the difference between int, Integer, and String?
+int: Primitive data type for integers (e.g., 5). No methods, stored directly in memory.
+Integer: Wrapper class for int. Provides methods (e.g., Integer.parseInt()). Can be null.
+String: Class for text (e.g., "Hello"). Immutable, supports methods like .length().
+
